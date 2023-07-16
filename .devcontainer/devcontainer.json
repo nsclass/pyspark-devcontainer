@@ -1,0 +1,6 @@
+{
+  "dockerComposeFile": "docker-compose.yml",
+  "service": "psypark-app",
+  "workspaceFolder": "/mounted-data",
+  "shutdownAction": "stopCompose"
+}

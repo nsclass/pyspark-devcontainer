@@ -7,7 +7,7 @@
 
 ## PySpark Development with Dev Container
 
-This project will show a demo for PySpark development environment with Dev Container with VS code. This project is using bitnami spark 3.4 Spark image
+This project will show a demo how to set up PySpark development environment with Dev Container in VS code. This project is using bitnami spark 3.4 Spark docker image.
 
 ### Building Docker Image
 
